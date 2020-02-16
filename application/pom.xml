@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>client_application</groupId>
+  <artifactId>application</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/ch.epfl.lamp/dotty-compiler_0.23 -->
+<dependency>
+    <groupId>ch.epfl.lamp</groupId>
+    <artifactId>dotty-compiler_0.23</artifactId>
+    <version>0.23.0-bin-20200214-5374d91-NIGHTLY</version>
+</dependency>
+  </dependencies>
+</project>
